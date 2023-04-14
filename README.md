@@ -8,5 +8,3 @@
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hlhol&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
 
-                                                                                     |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)                                                                                      
