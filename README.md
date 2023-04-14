@@ -6,5 +6,3 @@
 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hlhol&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
-
-(https://camo.githubusercontent.com/85f52f9a04fcefa1e88b221af6f20661c8a1e8e03e82c4e78241491ffdeb1bbe/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d42455062)
